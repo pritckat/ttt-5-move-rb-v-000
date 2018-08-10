@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(spot)
-  "spot".to_i
+  spot.to_i
   spot - 1
 end
 
